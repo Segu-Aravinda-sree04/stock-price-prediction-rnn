@@ -49,9 +49,8 @@ This project presents a deep learning-based approach to predicting future stock 
 ## 📉 Output
 
 - **Actual vs Predicted Stock Prices**
-![actual vs predicted](https://github.com/user-attachments/assets/93d7052b-bce1-4acf-a7dc-07b3209bc2ac)
 
-
+![actual vs predicted](https://github.com/user-attachments/assets/441ae181-54ec-4aff-b729-1075f580b208)
 
 The model closely tracks real closing prices, proving its ability to identify meaningful patterns from past data.
 
